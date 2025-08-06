@@ -25,8 +25,3 @@ Concepts Demonstrated
 - Binary to decimal byte conversion
 - OOP with a simple qubit class
 - Vector operations and modular function design
-
-## 🛠️ How to Compile and Run
-
-Make sure you have a C++ compiler installed (like g++), then:
-
